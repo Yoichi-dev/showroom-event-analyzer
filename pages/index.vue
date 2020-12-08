@@ -83,6 +83,9 @@ export default {
     //     })
     //     this.loading = false
     //   })
+    axios
+      .get('https://niconico-showroom-api.herokuapp.com/analyze/event-analyzer')
+      .then((response) => {})
   },
 }
 </script>
