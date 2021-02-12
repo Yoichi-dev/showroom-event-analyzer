@@ -1,20 +1,24 @@
-# showroom-event-analyzer
+# Showroom Event Analyzer
 
-## Build Setup
+[SHOWROOM](https://www.showroom-live.com/)のイベント内ポイントなど確認することができるWebアプリ
+
+# DEMO
+
+[https://showroom-event-analyzer.yoichi.dev/](https://showroom-event-analyzer.yoichi.dev/)
+
+# Usage
 
 ```bash
-# install dependencies
+$ git clone https://github.com/Yoichi-dev/showroom-event-analyzer.git
+$ cd showroom-event-analyzer
 $ npm install
-
-# serve with hot reload at localhost:3000
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# Author
+
+* よーいちろー [@TYoichiro](https://twitter.com/TYoichiro)
+
+# License
+
+[MIT license](https://en.wikipedia.org/wiki/MIT_License).
